@@ -3408,3 +3408,14 @@ message: "API key not valid. Please pass a valid API key."
 - Fat: 15 g
 - Fiber: 3 g
 
+2025-05-22 16:45:59,805 - INFO: Gemini API configured successfully.
+2025-05-22 16:46:03,905 - WARNING: Not Found: /
+2025-05-22 16:46:20,268 - WARNING: Not Found: /api/
+2025-05-22 16:46:38,131 - INFO: Requesting nutritional data for banana...
+2025-05-22 16:46:39,369 - INFO: Nutritional data received in 1.24 seconds
+2025-05-22 16:46:39,370 - INFO: Raw nutritional response: - Calories: 105 kcal
+- Carbohydrates: 27 g
+- Protein: 1 g
+- Fat: 0 g
+- Fiber: 3 g
+
