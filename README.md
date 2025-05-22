@@ -47,6 +47,7 @@ fab_and_fit/
 
 ---
 ## Installation
+https://github.com/Poritosh-2025/Food-and-Nutrition_final.git
 
 Follow these steps to set up the project:
 
