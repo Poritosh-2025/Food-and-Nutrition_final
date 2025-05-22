@@ -1,0 +1,11 @@
+django 
+djangorestframework 
+google-genai 
+Pillow 
+python-dotenv 
+dotenv 
+google-generativeai 
+django-crispy-forms 
+genai
+djangorestframework 
+djangorestframework-simplejwt
